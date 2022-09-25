@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron - @AarnP
-- 👀 I’m interested in becoming a Data Engineer.
-- 🌱 I’m currently learning Python, Database, Data Analysis and Visualisation
+- 👀 I’m junior iOS Software Engineer.
+- 🌱 I’m currently learning Swift, Storyboard and other skills needed for iOS developer.
 - 📫 You can reach me via email aarn.phan@gmail.com
 
 <!---
