@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron - @AarnP
-- 👀 I’m junior iOS Software Engineer.
-- 🌱 I’m currently learning Swift, Storyboard and other skills needed for iOS developer.
+- 👀 I aspire to become a Software Engineer.
+- 🌱 I’m currently learning Java, SQL and other framework to become a full-stack developer.
 - 📫 You can reach me via email aarn.phan@gmail.com
 
 <!---
